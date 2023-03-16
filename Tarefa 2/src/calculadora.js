@@ -58,6 +58,9 @@ const Calculadora = {
         else if(validateNum2 !== undefined){
             return 'Erro na divisao - segundo numero invalido';
         }
+        else if(num2 == 0){
+            return 'Erro na divisao - divisão por zero';
+        }
         
         let result = num1 / num2;
         return result;
