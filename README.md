@@ -4,7 +4,7 @@ Nesse repositório está contido o conteúdo das tarefas 1 e 2 de Engenharia de 
 O primeiro projeto está desenvolvido em Java e o segundo em Node, sendo necessária a instalação de dependências.
 
 ## Tarefa 1
-A primeira tarefa é uma revisão de POO com um projeto básico de Java.
+A primeira tarefa é uma revisão de POO com um projeto básico de Java. Instale o necessário através do link: https://www.oracle.com/java/technologies/downloads/.
 
 ## Tarefa 2
 A segunda tarefa é um projeto em NODE de uma calculadora que valida as entradas através da dependência validate.js. Instale o NODE pelo link https://nodejs.org/en.
